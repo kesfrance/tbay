@@ -4,7 +4,7 @@
 #
 # tbay.py
 #
-"""A model of the backend of an auction web application using sqlachemy"""
+"""A modelling the backend of an auction web application using sqlachemy"""
 #
 #TO DOs
 #Create User, Bid and Item classes
